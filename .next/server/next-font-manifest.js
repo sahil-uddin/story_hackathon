@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/sahiluddin/story_hackathon/app/layout\":[\"static/media/4c7655c11f7bd97b-s.p.woff2\",\"static/media/c9a5bc6a7c948fb0-s.p.woff2\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
